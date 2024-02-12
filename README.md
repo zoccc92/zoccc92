@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web development projects, machine learning projects, and data analysis projects.
 - 📫 How to reach me: Feel free to contact me via email at zocccblagojevic@gmail.com.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy hiking, traveling, and playing the guitar in my free time.
+- ⚡ Fun fact: I enjoy hiking, traveling
 
 
 <!---
